@@ -36,7 +36,7 @@
 | **🚀 SpaceX Falcon 9 3D Orbital Simulator** | Interactive 3D Physics & Telemetry | [**👉 BUKA SIMULATOR**](https://zordanjimbak0-art.github.io/daffa-master-astra/spacex_falcon9_simulator.html) | 🌐 **Online 24/7** |
 | **🔓 Astra Unity Mono Mod Menus (My Voice Zoo)** | Memory Hooking & Save XOR Unlocker | [Lihat Kode](https://github.com/zordanjimbak0-art/daffa-master-astra/tree/main/4_Astra_Unity_Mono_Mod_Menus) | ✅ **Verified** |
 | **📦 Blender 3D Packaging & Dieline Pipeline** | Photorealistic Cycles Render + `.jsx` Prepress | [Lihat Kode](https://github.com/zordanjimbak0-art/daffa-master-astra/tree/main/5_Blender_3D_Packaging_Pipeline) | ✅ **Production** |
-| **🛒 Online Shop Depok (`onlineshop-depok`)** | E-Commerce & Web Application | [Buka Repo](https://github.com/zordanjimbak0-art/onlineshop-depok) | ✅ **Active** |
+| **🛒 Online Shop Depok + 3D Cup Studio** | E-Commerce & Three.js 3D Packaging Configurator | [**👉 BUKA 3D STUDIO**](https://zordanjimbak0-art.github.io/onlineshop-depok/viewer3d.html) | 🌐 **Online 24/7** |
 | **🤖 Bot Daffa Privat (`bot-daffa-privat`)** | Automation & Private Bot System | [Buka Repo](https://github.com/zordanjimbak0-art/bot-daffa-privat) | 🔒 **Active** |
 
 ---
