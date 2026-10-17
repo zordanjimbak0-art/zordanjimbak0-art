@@ -34,6 +34,9 @@
 | **🎮 Daffa Master Command Center v6.0 Ultra** | Desktop Hub (CustomTkinter + Steam HD API) | [Lihat Kode](https://github.com/zordanjimbak0-art/daffa-master-astra/tree/main/1_Daffa_Master_Command_Center) | ✅ **v6.0 Active** |
 | **⚔️ Astra 3D Action RPG (First-Person Edition)** | Three.js WebGL + GitHub PBR & `.glb` Assets | [**👉 MAIN SEKARANG**](https://zordanjimbak0-art.github.io/daffa-master-astra/) | 🌐 **Online 24/7** |
 | **🚀 SpaceX Falcon 9 3D Orbital Simulator** | Interactive 3D Physics & Telemetry | [**👉 BUKA SIMULATOR**](https://zordanjimbak0-art.github.io/daffa-master-astra/spacex_falcon9_simulator.html) | 🌐 **Online 24/7** |
+| **🏎️ HexGL 3D Futuristic Cyber Racing** | Three.js WebGL Anti-Gravity Racing (Forked & Hosted) | [**👉 MAIN BALAP 3D**](https://zordanjimbak0-art.github.io/daffa-master-astra/games/hexgl/index.html) | 🌐 **Online 24/7** |
+| **🔮 Astray 3D Dungeon Maze Ball** | Three.js + Box2D 3D Physics Labirin | [**👉 MAIN LABIRIN 3D**](https://zordanjimbak0-art.github.io/daffa-master-astra/games/astray/index.html) | 🌐 **Online 24/7** |
+| **🔷 Hextris Cyber Arcade** | HTML5 High-Speed Hexagon Arcade | [**👉 MAIN HEXTRIS**](https://zordanjimbak0-art.github.io/daffa-master-astra/games/hextris/index.html) | 🌐 **Online 24/7** |
 | **🔓 Astra Unity Mono Mod Menus (My Voice Zoo)** | Memory Hooking & Save XOR Unlocker | [Lihat Kode](https://github.com/zordanjimbak0-art/daffa-master-astra/tree/main/4_Astra_Unity_Mono_Mod_Menus) | ✅ **Verified** |
 | **📦 Blender 3D Packaging & Dieline Pipeline** | Photorealistic Cycles Render + `.jsx` Prepress | [Lihat Kode](https://github.com/zordanjimbak0-art/daffa-master-astra/tree/main/5_Blender_3D_Packaging_Pipeline) | ✅ **Production** |
 | **🛒 Online Shop Depok + 3D Cup Studio** | E-Commerce & Three.js 3D Packaging Configurator | [**👉 BUKA 3D STUDIO**](https://zordanjimbak0-art.github.io/onlineshop-depok/viewer3d.html) | 🌐 **Online 24/7** |
