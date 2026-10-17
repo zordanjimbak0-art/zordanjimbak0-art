@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/daffa_ghidra_logo.png" alt="DAFFA Binary Logo" width="68%" />
+</div>
+<br/>
+<div align="center">
   <img src="./assets/banner.svg" alt="Komandan Daffa ASTRA AI Banner" width="100%" />
 </div>
 
